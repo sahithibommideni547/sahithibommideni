@@ -1,0 +1,15 @@
+<DOCTYPE!.html>
+<head>
+<title>REGISTRATION FORM</title>
+</head>
+<label>FIRST NAME:</label>
+<input>type="text" name="fname" placeholder="Enter your Name"required</input><br></br>
+<label>LAST NAME:</label> 
+<input>type="text" name="lname" placeholder="Enter your Name"required</input><br></br>
+<label>PASSWORD:</label> 
+<input>type="password" name="password" placeholder="Enter your Password"required</input><br></br>
+<label>CONFIRM PASSWORD:</label>
+<input>type="password" name="confirm password" placeholder="Enter your Confirm Password"required</input><br></br>
+<label>EMAIL:</label>
+<input>type="email" name="email" placeholder="Enter your email address"required</input><br></br>
+</html>
